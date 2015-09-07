@@ -37,3 +37,14 @@
 
 
 ?>
+<br>
+
+
+<?php
+
+	// Kuupäev - date 
+	
+	echo date ("l, j F Y e");
+
+
+

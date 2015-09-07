@@ -25,3 +25,15 @@
 
 
 ?>
+
+<?php
+
+	for($i = 0; $i < $age; $i = $i + 1) {
+			//See, mida korratake
+			echo "palju".$i.", ";
+	}
+	echo "õnne";
+	
+
+
+?>
